@@ -1,0 +1,1 @@
+function convertNumber(value: unknown) {}

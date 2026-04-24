@@ -1,0 +1,9 @@
+{
+  "references": [
+    { "path": "../shared" },
+    { "path": "../utils" }
+  ],
+  "compilerOptions": {
+    "composite": true
+  }
+}

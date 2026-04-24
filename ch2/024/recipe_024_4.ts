@@ -1,0 +1,5 @@
+console.log(false || "デフォルト値"); // 'デフォルト値'
+console.log(0 || "デフォルト値"); // 'デフォルト値'
+console.log("" || "デフォルト値"); // 'デフォルト値'
+console.log(null || "デフォルト値"); // 'デフォルト値'
+console.log(undefined || "デフォルト値"); // 'デフォルト値'

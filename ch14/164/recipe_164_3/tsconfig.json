@@ -1,0 +1,16 @@
+// 書籍では「継承元」「継承先」「結果」を1つのコードブロックに並記していますが、
+// 実際に動かせるよう base.json と tsconfig.json の2ファイルに分けて配置しています。
+// 結果:
+// {
+//   "target": "es2024",    // 上書き
+//   "module": "esnext",    // 継承
+//   "strict": true,        // 継承
+//   "outDir": "./dist"     // 追加
+// }
+{
+  "extends": "./base.json",
+  "compilerOptions": {
+    "target": "es2024",
+    "outDir": "./dist"
+  }
+}
