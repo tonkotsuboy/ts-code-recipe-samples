@@ -7,10 +7,6 @@ function processUser(user) {
 
 const userData = { name: "田中" }; // profileプロパティが存在しない
 
-try {
-  processUser(userData);
-} catch (error) {
-  console.error(error);
-}
+processUser(userData);
 
-console.log("プログラム終了"); // try/catch でラップしたのでここは実行される
+console.log("プログラム終了"); // この行も実行されない

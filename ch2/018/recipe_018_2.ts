@@ -3,7 +3,7 @@
 //     実行可能な形のサンプルは recipe_018_2/ フォルダ内にあります。
 for (let i = 1; i <= 10; i++) {
   if (i % 2 === 1) {
-    const element = document.querySelector<HTMLElement>(`:nth-child(${i})`);
+    const element = document.querySelector<HTMLElement>(`li:nth-child(${i})`);
     if (element) {
       element.style.backgroundColor = "red";
     }
