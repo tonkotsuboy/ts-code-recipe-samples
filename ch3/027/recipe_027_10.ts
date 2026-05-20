@@ -1,5 +1,3 @@
-function add(a: number, b: number) {
-  return a + b;
-}
-// add関数の戻り値はnumber型に推論される
-const result = add(1, 2);
+const user = { name: "鈴木", age: 30 } as const;
+// { readonly name: "鈴木"; readonly age: 30 } 型に推論される
+// user.name = "田中"; // エラー：readonlyなプロパティは書き換えができない
