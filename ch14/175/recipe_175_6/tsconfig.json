@@ -1,6 +1,3 @@
-// 三校PDFでは「recipe_176_6/tsconfig.json」と記載されていますが、
-// レシピ175（モジュール解決と出力形式）の nodenext 形式の設定例なので、
-// 実体としては recipe_175_6 が正しい想定です。配布コードでは 175_6 として配置しています。
 {
   "compilerOptions": {
     "module": "nodenext",
