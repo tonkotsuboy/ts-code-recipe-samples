@@ -1,3 +1,3 @@
-const name = "鈴木";
-console.log({ name });
-// 出力: { name: "鈴木" }
+const personName = "鈴木";
+console.log({ personName });
+// 出力: { personName: "鈴木" }

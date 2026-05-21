@@ -1,4 +1,4 @@
 const greeting = "こんにちは";
-const name = "太郎";
-const message = `${greeting}${name}さん`;
+const personName = "太郎";
+const message = `${greeting}${personName}さん`;
 console.log(message); // こんにちは太郎さん
