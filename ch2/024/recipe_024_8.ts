@@ -5,6 +5,7 @@ function displayName(name: string | null) {
   }
   return name;
 }
+
 console.log(displayName("")); // "名前未設定"
 console.log(displayName("田中")); // "田中"
 console.log(displayName(null)); // "名前未設定"

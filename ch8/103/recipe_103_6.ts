@@ -1,4 +1,3 @@
-// Recipe 103_6: catch で受け取る error を unknown 型にし、instanceof で実行時確認する
 const fetchDataWithErrorHandling = (): Promise<number> => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {

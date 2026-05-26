@@ -1,4 +1,3 @@
-// Recipe 107_6: AbortSignal.timeout() で簡潔にタイムアウトを実装する
 async function fetchWithTimeout() {
   try {
     // 5秒でタイムアウトするシグナルを作成

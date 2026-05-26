@@ -1,12 +1,13 @@
-// Recipe 108_5: withResolvers を使ったイベントベースの非同期処理
 function waitForClick(): Promise<void> {
   const { promise, resolve, reject } = Promise.withResolvers<void>();
+
   const button
     = document.querySelector<HTMLButtonElement>(".submit-button");
   if (!button) {
     reject(new Error("ボタンが見つかりません"));
     return promise;
   }
+
   button.addEventListener(
     "click",
     () => {
@@ -14,6 +15,7 @@ function waitForClick(): Promise<void> {
     },
     { once: true },
   );
+
   return promise;
 }
 

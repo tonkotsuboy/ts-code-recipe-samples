@@ -1,4 +1,3 @@
-// accessor で getter/setter を自動生成する基本例です。
 class Person {
   accessor name: string;
 

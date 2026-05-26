@@ -10,6 +10,7 @@ const getJapaneseColorName = (color: string): string => {
       return "その他";
   }
 };
+
 // 使用例
 console.log(getJapaneseColorName("red")); // 赤
 console.log(getJapaneseColorName("blue")); // 青

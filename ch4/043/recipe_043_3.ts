@@ -1,5 +1,6 @@
 const a = 10;
 const b = 3;
+
 console.log(a + b); // 13
 console.log(a - b); // 7
 console.log(a * b); // 30

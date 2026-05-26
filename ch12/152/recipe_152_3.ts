@@ -1,4 +1,3 @@
-// setter で値を検証する例です。負の値を代入するとランタイムで Error が投げられます。
 class User {
   private _age: number = 0;
 

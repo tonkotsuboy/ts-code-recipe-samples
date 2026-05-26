@@ -1,4 +1,3 @@
-// setter を定義しないことで読み取り専用プロパティを実現する例です。
 class User {
   private _id: number;
 

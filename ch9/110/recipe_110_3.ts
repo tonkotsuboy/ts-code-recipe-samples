@@ -6,5 +6,6 @@ class ValidationError extends Error {
 }
 
 const error = new ValidationError("バリデーションエラー");
+
 console.log(error instanceof ValidationError); // true
 console.log(error instanceof Error); // true

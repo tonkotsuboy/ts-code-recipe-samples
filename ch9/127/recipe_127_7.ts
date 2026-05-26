@@ -15,6 +15,7 @@ function createConfig<
       "無効なポート番号です。ポートは1024以上65535以下の数値である必要があります。",
     );
   }
+
   // logLevelが有効なログレベルのいずれかであることを確認します。
   const validLogLevels = ["debug", "info", "warn", "error"];
   if (!validLogLevels.includes(options.logLevel)) {
@@ -23,12 +24,14 @@ function createConfig<
       ${validLogLevels.join(", ")}`,
     );
   }
+
   // デフォルト値を設定します。
   const config = {
     ...options,
     hostname: options.hostname ?? "localhost",
     // hostnameが指定されていない場合は、デフォルトで"localhost"を使用します。
   };
+
   return config;
 }
 

@@ -1,4 +1,3 @@
-// Recipe 098_4: setInterval をクリアして繰り返しを停止する
 const intervalId = setInterval(() => {
   console.log("現在時刻：" + new Date().toLocaleTimeString());
 }, 1000);

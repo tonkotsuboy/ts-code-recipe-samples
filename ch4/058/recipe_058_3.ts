@@ -5,6 +5,7 @@ function countGraphemes(text: string): number {
   ) {
     throw new Error("Intl.Segmenterに未対応の環境です");
   }
+
   const segmenter = new Intl.Segmenter("ja",
     { granularity: "grapheme" });
   const graphemes = [...segmenter.segment(text)].map(
@@ -12,6 +13,7 @@ function countGraphemes(text: string): number {
   );
   return graphemes.length;
 }
+
 console.log(countGraphemes("👍🏻🙂")); // 2
 console.log(countGraphemes("👩‍👧‍")); // 1
 console.log(countGraphemes("👨‍👩‍👧‍👦家族")); // 3

@@ -1,4 +1,3 @@
-// 意図的な型エラーデモです。private メンバーへの外部アクセスはコンパイルエラー（TS2341）になります。
 class Example {
   private secret: string;
 

@@ -1,4 +1,3 @@
-// super.greet() で親クラスのメソッドを呼び出したうえで追加の処理を行う例です。
 class Parent {
   greet() {
     console.log("親の挨拶");

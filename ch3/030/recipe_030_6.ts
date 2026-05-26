@@ -1,4 +1,5 @@
 type Theme = "light" | "dark";
+
 function applyTheme(theme: Theme) {
   if (theme === "light") {
     // 明るいテーマを適用

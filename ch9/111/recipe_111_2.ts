@@ -13,6 +13,5 @@ const myFunction = (arg: Foo | Bar): void => {
     console.log(arg.bar); // argはBar型
   }
 };
-
 myFunction({ foo: "myFoo" }); // 「myFoo」と出力される
 myFunction({ bar: "myBar" }); // 「myBar」と出力される

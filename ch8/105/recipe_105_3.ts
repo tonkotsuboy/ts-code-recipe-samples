@@ -1,6 +1,3 @@
-// Recipe 105_3: Zod でスキーマを定義し fetch の結果を実行時に検証する
-// 書籍との差分: 実行には `npm install zod` が必要です。
-// 型チェックは `npx tsgo --noEmit --ignoreConfig --strict --target esnext --moduleResolution bundler --skipLibCheck` で確認できます（zod 解決には node_modules が必要）。
 import { z } from "zod";
 
 // Zodスキーマを定義

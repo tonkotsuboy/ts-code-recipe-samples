@@ -1,4 +1,3 @@
-// Recipe 102_3: Promise.race で最初に完了した Promise の結果を処理する
 const fetch1 = fetch("https://jsonplaceholder.typicode.com/posts/1");
 const fetch2 = fetch("https://jsonplaceholder.typicode.com/posts/2");
 

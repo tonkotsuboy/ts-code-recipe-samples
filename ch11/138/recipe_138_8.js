@@ -1,4 +1,3 @@
-// AggregateError の例。
 Promise.any([
   Promise.reject(new Error("エラー1")),
   Promise.reject(new Error("エラー2")),

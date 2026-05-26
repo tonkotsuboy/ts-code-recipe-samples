@@ -1,4 +1,3 @@
-// Recipe 101_1: fetch の結果を .then チェーンで直列に処理する
 fetch("https://jsonplaceholder.typicode.com/posts/1")
   .then((response) => {
     if (!response.ok) {

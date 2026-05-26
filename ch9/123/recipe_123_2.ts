@@ -1,4 +1,3 @@
-// このファイルは末尾に意図的なコンパイルエラーデモを含みます（TS2345）。
 function getProperty<T, K extends keyof T>(obj: T, key: K): T[K] {
   return obj[key];
 }

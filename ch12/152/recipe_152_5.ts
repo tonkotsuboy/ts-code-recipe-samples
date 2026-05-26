@@ -1,4 +1,3 @@
-// accessor に初期値を指定する例です。
 class Counter {
   accessor value = 1;
 

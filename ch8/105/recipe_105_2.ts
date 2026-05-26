@@ -1,4 +1,3 @@
-// Recipe 105_2: 型ガード関数で実行時にデータの型を検証する
 type Post = {
   userId: number;
   id: number;

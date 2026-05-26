@@ -1,4 +1,3 @@
-// Recipe 100_2: POST リクエストで JSON ボディを送信する
 async function createPost(title: string, body: string) {
   const response = await fetch("https://jsonplaceholder.typicode.com/posts", {
     method: "POST",

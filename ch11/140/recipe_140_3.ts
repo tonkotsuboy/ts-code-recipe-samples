@@ -1,4 +1,3 @@
-// async/await と try/catch の組み合わせ。
 async function fetchUser(id: string) {
   const response = await fetch(`/users/${id}`);
   if (!response.ok) {

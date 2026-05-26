@@ -1,4 +1,3 @@
-// static なしの通常プロパティでは、各インスタンスが独立した値を持つ例です。
 class GameSettings {
   difficulty: string; // 通常のプロパティ
 
