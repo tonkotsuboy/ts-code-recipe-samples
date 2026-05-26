@@ -1,4 +1,3 @@
-// catch (error) は未使用扱いのため、unhandled rejection のログが残ります。
 try {
   Promise.resolve().then(() => {
     throw new Error("then内のエラー");

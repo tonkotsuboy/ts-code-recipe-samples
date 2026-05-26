@@ -1,4 +1,3 @@
-// erasableSyntaxOnly: true で、enum / namespace / クラスのパラメータプロパティはエラーになります。
 enum MyEnum {
   A,
   B,

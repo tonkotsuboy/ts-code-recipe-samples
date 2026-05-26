@@ -13,5 +13,3 @@ const values = Object.values(user);
 // Object.entries():
 // [string, "田中" | 30 | readonly ["読書", "旅行", "ゲーム"]][]
 const entries = Object.entries(user);
-
-console.log(keys, values, entries);

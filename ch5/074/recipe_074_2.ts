@@ -12,5 +12,3 @@ const values = Object.values(user);
 
 // [string, string | number | string[]][]
 const entries = Object.entries(user);
-
-console.log(keys, values, entries);
