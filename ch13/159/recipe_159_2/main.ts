@@ -3,6 +3,7 @@ async function loadLanguagePack(language: string) {
     language === "ja"
       ? await import("./lang-ja")
       : await import("./lang-en");
+
   console.log(langModule.messages.greeting);
   return langModule.messages;
 }
