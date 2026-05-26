@@ -1,6 +1,11 @@
 # ts-code-recipe-samples
 
-書籍『TypeScript コードレシピ』（仮）のサンプルコードです。
+書籍『TypeScriptコードレシピ集』のサンプルコードです。
+
+https://gihyo.jp/book/2026/978-4-297-15628-2
+
+https://kano.codes/entry/ts-code-recipe
+
 
 ## 構成
 
