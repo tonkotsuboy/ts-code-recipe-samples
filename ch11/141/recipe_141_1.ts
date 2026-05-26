@@ -1,5 +1,3 @@
-// ValidationError カスタムエラーの定義と使用例。
-// 書籍そのままだと validateAge(-1) でプロセスが落ちるため、呼び出しを try/catch で包みました。
 class ValidationError extends Error {
   constructor(message: string) {
     super(message); // 親クラスのErrorにメッセージを渡す

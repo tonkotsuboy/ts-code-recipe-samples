@@ -1,4 +1,3 @@
-// TypeScript版の Animal クラスの例です。
 class Animal {
   name: string; // プロパティの型を指定
   age: number; // number型を指定

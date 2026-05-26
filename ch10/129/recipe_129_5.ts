@@ -4,7 +4,6 @@ type User = {
   email: string;
 };
 
-// デモ用のユーザーデータ
 const users: Record<number, User> = {
   1: { id: 1, name: "鈴木", email: "suzuki@example.com" },
   2: { id: 2, name: "田中", email: "tanaka@example.com" },

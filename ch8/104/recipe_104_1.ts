@@ -1,4 +1,3 @@
-// Recipe 104_1: async/await を使って Promise の解決値を同期的な見た目で受け取る
 function fetchData(): Promise<number> {
   return new Promise((resolve) => {
     setTimeout(() => {

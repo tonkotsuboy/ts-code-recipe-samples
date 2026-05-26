@@ -1,4 +1,3 @@
-// Recipe 105_1: 型注釈だけでは response.json() の戻り値を実行時に保証できない例
 type Post = {
   userId: number;
   id: number;

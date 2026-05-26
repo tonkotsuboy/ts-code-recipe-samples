@@ -3,5 +3,6 @@ function logFruits(...fruits) {
     console.log(fruits[i]);
   }
 }
+
 logFruits("りんご", "バナナ", "みかん");
 // りんご, バナナ, みかん

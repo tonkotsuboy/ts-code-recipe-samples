@@ -6,3 +6,7 @@ build/
 .env
 .env.local
 *.tsbuildinfo
+
+# recipe_166_2 はソースマップのデモのため dist 出力を配布物に含める（例外）
+!/ch14/166/recipe_166_2/dist/
+!/ch14/166/recipe_166_2/dist/**

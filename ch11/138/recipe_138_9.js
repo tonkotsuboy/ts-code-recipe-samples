@@ -1,6 +1,3 @@
-// instanceof でエラー種別を判別するデモ。書籍ではページをまたぐため、
-// PDFでは recipe_138_9.js と recipe_138_10.js に分かれて掲載されていますが、
-// 実行の流れはこの1ファイルで完結します。
 function handleError(error) {
   if (error instanceof TypeError) {
     console.log("型に関するエラーです:", error.message);

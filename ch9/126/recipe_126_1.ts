@@ -13,5 +13,6 @@ function getProductById(id: string): void {
 
 // 商品情報用の関数にユーザーIDを渡しても、コンパイルエラーにならない
 getProductById(apiResponseData.userId);
+
 // ユーザー情報用の関数に商品IDを渡しても、コンパイルエラーにならない
 getUserById(apiResponseData.productId);

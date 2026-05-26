@@ -1,4 +1,3 @@
-// Recipe 104_3: fetch と async/await を組み合わせて API から型付きデータを取得する
 type Post = {
   userId: number;
   id: number;

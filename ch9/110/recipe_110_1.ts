@@ -12,5 +12,6 @@ class Bird {
 
 const human = new Human();
 const bird = new Bird();
+
 console.log(human instanceof Human); // true
 console.log(human instanceof Bird); // false

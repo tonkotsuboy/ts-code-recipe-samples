@@ -1,5 +1,3 @@
-// 書籍では recipe_143_3.js で定義した Calculator クラスを前提にメソッド呼び出しのみを示していますが、
-// 単体で動くように同じクラス定義を同梱しています。
 class Calculator {
   add(a, b) {
     return a + b;

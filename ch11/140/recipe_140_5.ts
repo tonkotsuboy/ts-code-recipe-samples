@@ -1,4 +1,3 @@
-// エラーケースでの finally の挙動を確認する例。
 function checkPositive(number: number) {
   if (number < 0) {
     throw new Error("数値は0以上である必要があります");

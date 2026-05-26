@@ -3,5 +3,4 @@ const doubled = numbers.map((n) => {
   return n * 2;
 });
 
-// 書籍では map の戻り値を表示していないが、動作確認のため出力を追加している
 console.log(doubled); // [ 2, 4, 6, 8, 10 ]

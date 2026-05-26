@@ -1,4 +1,3 @@
-// Recipe 098_5: ReturnType<typeof setTimeout> で環境差を吸収しつつ二重起動を防ぐ
 let timerId: ReturnType<typeof setTimeout> | null = null;
 
 const start = () => {
@@ -18,6 +17,5 @@ const cancel = () => {
   }
 };
 
-// 動作確認: start してから別のタイミングで cancel を呼ぶ想定
 start();
 cancel();

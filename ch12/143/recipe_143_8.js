@@ -1,5 +1,3 @@
-// 書籍の当該コードブロックでは末尾に未定義の `calculator` 変数を参照する行があり、そのままでは実行できません。
-// 原稿（drafts/chapter12/12-1.md）に合わせて動く形に修正しています。
 class Calculator {
   add(a, b) {
     return a + b;

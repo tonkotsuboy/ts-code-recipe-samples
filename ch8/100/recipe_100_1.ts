@@ -1,4 +1,3 @@
-// Recipe 100_1: fetch で GET リクエストし、response.ok チェック後に json() で受け取る
 fetch("https://jsonplaceholder.typicode.com/posts/1")
   .then((response) => {
     if (!response.ok) {

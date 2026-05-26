@@ -1,4 +1,3 @@
-// クラス定義のみのサンプルのため、末尾に動作確認用の `new` 呼び出しを追加しています（書籍にはありません）。
 class Parent {
   message: string = "親クラス";
 
@@ -17,7 +16,6 @@ class Child extends Parent {
   }
 }
 
-// 動作確認用（書籍では recipe_145_2.ts 側で呼び出しています）
 const child = new Child();
 console.log(child.message); // 親クラス
 child.greet(); // こんにちは

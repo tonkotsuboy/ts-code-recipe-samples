@@ -1,4 +1,3 @@
-// カスタムプロパティを持つ AgeValidationError の例。
 class AgeValidationError extends Error {
   age: number;
   constructor(message: string, age: number) {

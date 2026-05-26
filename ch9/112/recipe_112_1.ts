@@ -10,5 +10,6 @@ type B = {
 
 const objA: A = { type: "a-type", foo: "hello" };
 const objB: B = { type: "b-type", bar: "world" };
+
 console.log(objA.type); // "a-type"
 console.log(objB.type); // "b-type"

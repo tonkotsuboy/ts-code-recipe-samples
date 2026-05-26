@@ -1,6 +1,3 @@
-// exactOptionalPropertyTypes: true で、
-// オプショナルプロパティへの undefined の直接代入は禁止されます。
-// 期待エラーコード: TS2375 - Type 'undefined' is not assignable ...
 type User = {
   name: string;
   age?: number;

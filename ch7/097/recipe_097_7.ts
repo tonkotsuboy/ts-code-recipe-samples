@@ -1,4 +1,3 @@
-// 意図的な型エラーデモ: Readonlyの効果は直接のプロパティにのみ及ぶことを示す。profileへの再代入はエラー、ネストされたageの書き換えはOK (期待エラー: TS2540)
 type User = {
   name: string;
   profile: {

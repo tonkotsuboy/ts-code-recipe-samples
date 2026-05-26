@@ -1,4 +1,3 @@
-// Recipe 100_6: response.headers からレスポンスヘッダーを取得する
 fetch("https://jsonplaceholder.typicode.com/posts/1").then((response) => {
   console.log(
     "レスポンスのヘッダー情報:",

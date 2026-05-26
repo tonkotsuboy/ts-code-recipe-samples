@@ -1,5 +1,3 @@
-// 書籍のPDFでは当該コードブロックが途中で切れており、クラス定義とインスタンス化の両方が
-// 並んで掲載されています。原稿（drafts/chapter12/12-1.md）に合わせて完全な形で収録しています。
 class User {
   constructor(name, email) {
     this.name = name;

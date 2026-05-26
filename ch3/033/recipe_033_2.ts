@@ -1,4 +1,3 @@
-// 意図的な型エラーデモ（TS2741）。idプロパティが不足しているのでエラー
 interface User {
   id: number;
   name: string;

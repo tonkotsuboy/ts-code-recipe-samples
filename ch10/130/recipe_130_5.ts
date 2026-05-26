@@ -1,4 +1,3 @@
-// 意図的に型エラーを発生させるデモ（TS2353: 除外済みの 'id' は指定不可）。
 type UserProfile = {
   id: number;
   name: string;

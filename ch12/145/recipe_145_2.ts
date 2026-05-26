@@ -1,5 +1,3 @@
-// 書籍では recipe_145_1.ts で定義した Parent / Child クラスを前提に呼び出しのみを示していますが、
-// 単体で動くように同じクラス定義を同梱しています。
 class Parent {
   message: string = "親クラス";
 

@@ -1,4 +1,3 @@
-// public 修飾子は省略可能であることを示すサンプルです。
 class Example {
   greet(): void {
     console.log("こんにちは");

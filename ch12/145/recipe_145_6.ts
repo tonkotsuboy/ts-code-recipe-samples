@@ -1,4 +1,3 @@
-// クラス定義のみのサンプルのため、末尾に動作確認用の `new` 呼び出しを追加しています（書籍にはありません）。
 class Animal {
   name: string;
 
@@ -22,7 +21,6 @@ class Dog extends Animal {
   }
 }
 
-// 動作確認用（書籍では recipe_145_7.ts 側で呼び出しています）
 const dog = new Dog("ポチ");
 dog.greet();
 // こんにちは、ポチです

@@ -6,5 +6,6 @@ function createSecureToken(length = 32): string {
     "",
   );
 }
+
 console.log(createSecureToken());
 // 例: b0c81af0e98b3f58...d904d1934c（64文字）

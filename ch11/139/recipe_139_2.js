@@ -1,4 +1,3 @@
-// cause オプションでエラーを連結する例。単体実行できるよう try/catch でラップしています。
 try {
   const originalError = new Error("元となるエラーです");
   throw new Error("新しいエラーメッセージ", { cause: originalError });

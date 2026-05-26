@@ -1,4 +1,3 @@
-// Recipe 099_5: ランダムに成功/失敗する非同期処理を Promise で実装する実例
 new Promise((resolve, reject) => {
   setTimeout(() => {
     const isSuccess = Math.random() > 0.5;

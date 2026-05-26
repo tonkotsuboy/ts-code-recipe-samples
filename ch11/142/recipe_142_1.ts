@@ -1,6 +1,3 @@
-// Error.cause を使わない場合の「元のエラーが失われる」例。
-// 書籍では fetchUserData 定義と getUserProfile/example 関数が左右ページにまたがって
-// 掲載されていますが、単体実行できるよう1ファイルにまとめています。
 // 下位レイヤー：API通信を担当
 async function fetchUserData(userId: string) {
   const response = await fetch(

@@ -1,4 +1,3 @@
-// 意図的な型エラーデモ: ReadonlyArray要素の再代入はエラー、ネスト内プロパティは書き換え可能 (期待エラー: TS2542)
 type User = {
   name: string;
 };

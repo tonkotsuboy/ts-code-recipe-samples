@@ -1,4 +1,3 @@
-// Recipe 102_4: Promise.any で最初に成功した結果だけを受け取る
 const mirrors = [
   fetch("https://mirror1.example.com/status"),
   fetch("https://mirror2.example.com/status"),

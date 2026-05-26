@@ -1,4 +1,3 @@
-// 書籍ではこのスニペットのみだが、単体実行のため numberGenerator の定義を同梱している
 function* numberGenerator() {
   yield 1;
   yield 2;

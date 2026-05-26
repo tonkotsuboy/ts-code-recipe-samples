@@ -7,4 +7,5 @@ function deleteLastGrapheme(text: string): string {
   graphemes.pop();
   return graphemes.join("");
 }
+
 console.log(deleteLastGrapheme("👍🏻🙂")); // 👍🏻

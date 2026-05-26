@@ -1,4 +1,3 @@
-// override 修飾子を使ってオーバーライドを明示する例です。
 class Parent {
   greet() {
     console.log("親の挨拶");

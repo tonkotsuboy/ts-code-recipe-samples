@@ -7,4 +7,5 @@ const person = {
     }, 1000);
   },
 };
+
 person.greet(); // 出力: こんにちは、太郎さん

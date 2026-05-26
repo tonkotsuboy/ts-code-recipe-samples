@@ -5,6 +5,7 @@ function processCoordinates([[x1, y1], [x2, y2]]: [
   const distance = Math.hypot(x2 - x1, y2 - y1);
   console.log(`2点間の距離は${distance}です`);
 }
+
 processCoordinates([
   [0, 0],
   [3, 4],

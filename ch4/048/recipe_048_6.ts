@@ -3,6 +3,7 @@ type User = {
   age: number;
   email: string;
 };
+
 function generateUserCard(user: User): string {
   return `
     <div class="user-card">
@@ -12,9 +13,11 @@ function generateUserCard(user: User): string {
     </div>
   `;
 }
+
 const user: User = {
   name: "太郎",
   age: 25,
   email: "taro@example.com",
 };
+
 console.log(generateUserCard(user));

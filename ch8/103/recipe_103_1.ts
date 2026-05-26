@@ -1,4 +1,3 @@
-// Recipe 103_1: Promise<number> で解決値の型を明示する
 const fetchData = (): Promise<number> => {
   return new Promise((resolve) => {
     setTimeout(() => {

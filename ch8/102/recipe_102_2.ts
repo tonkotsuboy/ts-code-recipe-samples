@@ -1,4 +1,3 @@
-// Recipe 102_2: Promise.allSettled で成功・失敗を問わずすべての結果を待つ
 const task1 = () =>
   new Promise((resolve) =>
     setTimeout(() => resolve("Task 1 completed"), 1000),
