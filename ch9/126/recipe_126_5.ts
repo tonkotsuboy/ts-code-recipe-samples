@@ -1,5 +1,3 @@
-// 書籍では recipe_126_2.ts 〜 recipe_126_4.ts で定義したBranded Typeと関数を前提にしています。
-// 単体で動かすため、必要な定義をこのファイルにも同梱します。
 const userIdBrand = Symbol();
 const productIdBrand = Symbol();
 type UserId = string & { [userIdBrand]: unknown };

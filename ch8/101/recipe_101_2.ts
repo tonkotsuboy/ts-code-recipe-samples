@@ -1,4 +1,3 @@
-// Recipe 101_2: Promise を直列に繋いで前段の結果を次段に引き渡す
 const task1 = (): Promise<string> =>
   new Promise((resolve) => {
     setTimeout(() => {

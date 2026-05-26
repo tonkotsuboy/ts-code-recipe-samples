@@ -1,4 +1,3 @@
-// 意図的な型エラーデモ（TS2300）。type は同じ名前で複数回宣言できない
 type User = {
   name: string;
 };

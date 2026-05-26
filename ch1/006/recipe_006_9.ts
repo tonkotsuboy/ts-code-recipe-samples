@@ -1,4 +1,3 @@
-// 書籍では recipe_006_8.ts 側で定義していた add 関数を、単体実行用に同梱
 function add(a: number, b: number) {
   return a + b;
 }

@@ -14,6 +14,5 @@ function add(x: unknown, y: unknown) {
 const result1 = add(10, 20); // 30
 const result2 = add("Hello", "world!"); // "Hello, world!"
 
-// 書籍では結果の代入のみだが、動作確認のため出力を追加している
 console.log(result1); // 30
 console.log(result2); // Hello, world!

@@ -1,4 +1,3 @@
-// コンパイルエラーの例（意図的な型エラーデモ）
 function greet(name: string) {
   return `Hello, ${name}`;
 }

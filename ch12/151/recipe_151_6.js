@@ -1,5 +1,3 @@
-// 書籍では recipe_151_5.js の続きとしてプロトタイプ書き換えを試す例ですが、単体で動くよう
-// MyClass / myInstance / foo の定義を同梱しています。
 class MyClass {
   #myBrand;
 

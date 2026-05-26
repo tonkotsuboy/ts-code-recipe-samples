@@ -1,7 +1,3 @@
-// Recipe 103_5: fetchPost の戻り値を Promise<Post> で明示し、呼び出し側で型補完を効かせる
-// 書籍との差分: Post 型の定義（recipe_103_4.ts 相当）を同一ファイルに同梱しています。
-// 書籍では recipe_103_4 で Post を定義してから 103_5 で import なしに利用する構成ですが、
-// 単体ファイルで実行・型チェックできるようまとめています。
 type Post = {
   userId: number;
   id: number;

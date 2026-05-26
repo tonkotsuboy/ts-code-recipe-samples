@@ -1,4 +1,3 @@
-// 書籍の紙面では while ループ内の分岐が省略されているため、drafts/chapter6/6-23.md の完全版を採用している
 function* myGenerator(): Generator<string, void, number> {
   let count = 0;
   while (true) {

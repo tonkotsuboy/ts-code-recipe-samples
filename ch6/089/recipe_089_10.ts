@@ -8,7 +8,6 @@ async function* typedAsyncGenerator(): AsyncGenerator<
   yield await Promise.resolve("文字列2");
 }
 
-// 書籍では関数定義のみだが、動作確認のため呼び出し例を追加している
 async function main() {
   for await (const v of typedAsyncGenerator()) {
     console.log(v);

@@ -5,7 +5,6 @@ function* typedGenerator(): Generator<string, void, unknown> {
   yield "3番目の値";
 }
 
-// 書籍では関数定義のみだが、動作確認のため呼び出し例を追加している
 for (const v of typedGenerator()) {
   console.log(v);
 }

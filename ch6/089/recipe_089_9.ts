@@ -13,6 +13,4 @@ async function processUsers() {
   }
 }
 
-// 書籍では関数定義のみ。fetch はブラウザやNode.js 18+の環境で利用可能
-// 動作確認は実際のAPIが必要なためここでは関数定義のみ同梱
 void processUsers;

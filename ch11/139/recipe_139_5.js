@@ -1,6 +1,3 @@
-// throw で後続の処理が実行されない様子を確認する例。
-// 書籍では processData(-1) でプロセスが落ちるため、ここでは try/catch を足して
-// 最後の console.log まで到達することを確認できるようにしています。
 function processData(value) {
   console.log("処理開始");
   if (value < 0) {

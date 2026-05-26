@@ -1,4 +1,3 @@
-// 意図的な型エラーデモを含む（example2・example3 は TS2322）。
 type MaybeString = string | null | undefined;
 
 type DefiniteString = NonNullable<MaybeString>; // string のみが保持される

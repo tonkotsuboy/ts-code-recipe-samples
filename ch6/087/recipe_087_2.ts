@@ -1,4 +1,3 @@
-// 書籍ではこのスニペットのみだが、単体実行のため add 関数の定義を同梱している
 function add(x: number, y: number): number;
 function add(x: string, y: string): string;
 function add(x: unknown, y: unknown) {

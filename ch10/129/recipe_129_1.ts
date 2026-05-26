@@ -1,4 +1,3 @@
-// 意図的に型エラーを発生させるデモ（TS2741: Property 'age' is missing）。
 type User = {
   name: string;
   age: number;

@@ -1,5 +1,3 @@
-// 書籍では recipe_126_2.ts で定義した UserId / ProductId を前提にしています。
-// 単体で動かすため、同じBranded Typeの定義をこのファイルにも同梱します。
 const userIdBrand = Symbol();
 const productIdBrand = Symbol();
 type UserId = string & { [userIdBrand]: unknown };

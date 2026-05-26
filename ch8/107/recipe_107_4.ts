@@ -1,4 +1,3 @@
-// Recipe 107_4: fetch を AbortController で途中キャンセルする（ボタン + タイムアウト）
 const controller = new AbortController();
 const cancelButton = document.querySelector(".cancel-button");
 cancelButton?.addEventListener("click", () => {

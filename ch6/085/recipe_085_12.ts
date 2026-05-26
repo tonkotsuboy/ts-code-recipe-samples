@@ -1,4 +1,3 @@
-// 書籍ではこのスニペットのみだが、単体実行のため sum 関数の定義を同梱している
 function sum(...numbers: number[]) {
   console.log(numbers);
 }

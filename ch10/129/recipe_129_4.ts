@@ -1,4 +1,3 @@
-// 意図的に型エラーを発生させるデモ（TS2741: Property 'id' is missing）。
 type PartialUser = {
   id?: number;
   name?: string;

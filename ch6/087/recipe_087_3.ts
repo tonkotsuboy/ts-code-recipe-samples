@@ -1,5 +1,3 @@
-// 書籍では実装シグネチャの開き波括弧と戻り値の型注釈が抜けていたため補完している
-// （書籍: `function format(value: string | number, currency?: string)` → 正しくは `: string {`）
 // オーバーロードシグネチャ（引数が1つ）
 function format(value: string): string;
 // オーバーロードシグネチャ（引数が2つ）

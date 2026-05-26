@@ -1,4 +1,3 @@
-// Recipe 108_1: Promise.withResolvers で promise/resolve/reject をまとめて取得する
 const { promise, resolve, reject } = Promise.withResolvers<string>();
 
 // 外部からPromiseを解決できる

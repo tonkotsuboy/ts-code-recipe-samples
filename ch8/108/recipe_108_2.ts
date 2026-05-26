@@ -1,4 +1,3 @@
-// Recipe 108_2: 従来の方法 — resolve/reject を変数に代入して外部で使う
 let resolve: (value: string) => void;
 let reject: (reason?: any) => void;
 const promise = new Promise<string>((res, rej) => {

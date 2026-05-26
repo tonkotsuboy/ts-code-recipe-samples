@@ -1,6 +1,3 @@
-// Error.cause を使って文脈と技術的原因の両方を残す例。
-// 書籍では fetchUserData / getUserProfile / displayErrorChain が左右ページに分かれて
-// 掲載されていますが、単体実行できるよう1ファイルにまとめています。
 // 下位レイヤー：API通信を担当（変更なし）
 async function fetchUserData(userId: string) {
   const response = await fetch(

@@ -1,4 +1,3 @@
-// 複数のインスタンスを作成する例です。
 class Animal {
   constructor(name) {
     this.name = name;

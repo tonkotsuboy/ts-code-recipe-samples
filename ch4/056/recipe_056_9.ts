@@ -1,4 +1,3 @@
-// 書籍: otherId でのアクセスが TS2339 になる意図的なデモ（コメントアウトを外すと型エラー）。
 const userId = Symbol("userId");
 const otherId = Symbol("userId");
 type User = {

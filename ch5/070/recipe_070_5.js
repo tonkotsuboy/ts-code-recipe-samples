@@ -1,5 +1,3 @@
-// 書籍では recipe_070_4 の userList を引き続き使っているため、
-// このファイル単体で動くように userList の定義を同梱しています。
 const userList = [
   { id: 1, name: "田中", role: "admin" },
   { id: 2, name: "鈴木", role: "user" },
