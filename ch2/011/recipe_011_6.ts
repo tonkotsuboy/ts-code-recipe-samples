@@ -1,1 +1,4 @@
 let userName: string = "田中";
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/DYUwLgBArgziBOA5AhgWxALgjM8CWAdgOYQC8EARIAyugtHIUDcQA
