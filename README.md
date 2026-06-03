@@ -102,6 +102,19 @@ node ch2/009/recipe_009_1.ts
 node --experimental-transform-types ch12/147/recipe_147_1.ts
 ```
 
+4. ブラウザで実行する（TypeScript Playground）
+
+サンプルのファイル末尾には、次のようなコメントを付けています。
+
+```ts
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/...
+```
+
+[TypeScript Playground](https://www.typescriptlang.org/play/)は、TypeScript公式のオンラインエディタです。このリンクを開くと、サンプルコードが入力済みの状態でブラウザに表示されます。エディタやNode.jsの準備をしなくても、「Run」ボタンを押すだけで`console.log`の出力を「Logs」タブで確認でき、型エラーも赤い波線で表示されます。コードを書き換えて動きを試すのにも便利です。
+
+> リンクは本書の前提であるTypeScript 6で開くように固定しています。なお、ブラウザのDOM操作を扱うサンプルや、環境構築の手順を体験するサンプルなど、Playground上では動作しない一部のファイルにはリンクを付けていません。
+
 ### `.js`（JavaScript）ファイル
 
 そのまま`node`で実行できます。
@@ -111,6 +124,8 @@ node --experimental-transform-types ch12/147/recipe_147_1.ts
 ```sh
 node ch1/001/recipe_001_1.js
 ```
+
+`.js`ファイルにも、`.ts`と同じくTypeScript Playgroundの実行リンクを付けています。リンクはJavaScriptモード（型チェックなし）で開くので、JavaScriptそのものの挙動を確認できます。
 
 ### `.html`ファイル / `index.html`を含むフォルダー
 
