@@ -19,3 +19,6 @@ const cancel = () => {
 
 start();
 cancel();
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/DYUwLgBGCWC2ICcCSATAXBASuArggdgCoCeADiADxhkgD2AZhAM7iFx05gB8EAPhPhzBgEALwChwANwAoGQGNa+JpBUBDBJHEAKAJRieAbxkQI0RtpjxkKCAEJR4wcP3HTphLgKzTAXxNQ7DZizKzstJzaegYQbu6KyrSgAHTAtADm2gBEgGeKgGAugDIMgDHagGFygOoMgH4MZYD6DFm6Pu5WiKghztIBvgA0EABMAAwD9TK+sgpKKhDyavjyICI6+qJGAeYQlkEtDk6SrgGm8qAabPARYOvWqEPugRe228IN-iNy6pp6slMzc+9AA

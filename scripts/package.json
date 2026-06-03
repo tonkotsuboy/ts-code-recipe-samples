@@ -1,0 +1,10 @@
+{
+  "name": "ts-code-recipe-samples-scripts",
+  "private": true,
+  "type": "module",
+  "description": "サンプルコードのメンテナンス用スクリプト",
+  "dependencies": {
+    "lz-string": "^1.5.0",
+    "typescript": "^6.0.3"
+  }
+}

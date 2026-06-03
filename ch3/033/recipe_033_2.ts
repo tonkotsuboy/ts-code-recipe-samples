@@ -14,3 +14,6 @@ const adminUser: Admin = {
   role: "admin",
   permissions: ["read", "write", "delete"],
 };
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/JYOwLgpgTgZghgYwgAgKoGdrIN4ChnLAAmAXMiAK4C2ARtANz7lxURnphSgDmjAvrlyhIsRCgCCRKqGQQAHpBBF0aTFBxMoAewA2bZACI4U0AcYEADtGnp0wLSHTtOPANoBdfoID035IAqGQEuGQB+GQCAGYkB1hkBbhkBFhkAxhkBihkAZBkBYOUBm2MB1BkAzBkARBkBohlwEBw5kY2kQDGgySXLkAF4NAhAWfQNAKk1AOYSDABpNXVay017La2Bbe0cyVwMoCGMewwB3LkgFgyIIPVX3Xr56IA

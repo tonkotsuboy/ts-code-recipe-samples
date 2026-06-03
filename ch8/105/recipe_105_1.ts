@@ -18,3 +18,6 @@ const fetchPost = async (id: number): Promise<Post> => {
 
 // 関数参照未使用を避けるための呼び出し
 fetchPost(1);
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBACg9gZ2FAvFA3gKClArgiAJwEkATALigDtcBbAIyIG5soBLC6uxwlnYNsAA2ESkkJsqAcz5R6cUiDHAJ0lgF8WmAMZwqSKADMIwbQAt4BtAEMEIKtqgAKDpRoMiASkoxCcWmwEADyWwAB8qBFYOLr6yIQQCGB6BKhQ1gDu1oJGJuZOrDgABmbAwGAI5AD0VQBWCHpgQtbaEGZwQqREAHSgYGy6Xd26tFXJSAhVACToHOpFADSsnrJshs4AhAlJKRDdcADWnhiFUMBmfhnUEFcAooR+hE5FABIAKm8wUESPlDPbyX0eyQ1mA+HmK1Y6lYsQMpFB1jSmWy8USgII3XqeickJwCTBhCoUHhwGsTCgNWJCMA9gyAfO1ANlpgGsGanWKggQDR6oBABnZgDsGQC78oAeKOpgCsGQAiDJhNJhMJTAEWpgAdTQBDyoBzR0AVOaAf3lABSugCSGQD+CYBFBkA0QyAfQZAIEMPMAPiqAZwZAF+KgHUGTDGUwWRDAJwARhWQA

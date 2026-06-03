@@ -6,3 +6,6 @@ interface BaseUser {
 interface AdminUser extends BaseUser {
   role: "admin";
 }
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/JYOwLgpgTgZghgYwgAgEJwM4QKpasgbwChllgATALmRAFcBbAI2gG4Sa56JqMwpQA5mwC+RIqEixEKAILl6oXNGQQAHpBDkMaTDjyF2UAPYAbbsgBEceaAsigA

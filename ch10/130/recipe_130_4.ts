@@ -12,3 +12,6 @@ const userProfile: UserProfileWithoutId = {
 };
 
 console.log(userProfile);
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAqgzhATgBUQewGYEsA20C8UA3gFBRRYAmAXFAHYCuAtgEZIDcZ9AhkxLXGCIsdAOadyEJt1wChI8SQC+nEqEiwEKdNjwB1LMAAWaBsACSlKIQDyTQwB54SVJlwQANFABEVbwD5VAGM0OkEoBi1XXX5NFx13A2NTCytCUnI6XljvQAZXQFo5KEAqTUA5hO8PLikZHFpvYG4sgGtuAAEIAA9eMDwAOhCmcuVg0Lg0Xpw0UQAKSPi3PABKdiA

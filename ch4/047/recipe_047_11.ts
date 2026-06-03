@@ -6,3 +6,6 @@ console.log(
   `アンドロメダ銀河までの距離は約${distanceToAndromedaInMeters}メートル`,
 );
 // アンドロメダ銀河までの距離は約24001873208937489600000メートル
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBANgSwOYAsoE0CmBDATgSTAFlMpNcIYBeGATgBYA2ABgHYBmZ+1gJgFYAHMyHMwAbhgB6STECSioBc9QEkMgQ4ZAPwyAJhkDXDIHMGQBYRgdQZA+gyASBQBQoSLESoMOXABUQAQTAATXCAC2mV9mox+dlZmEPEpGUAihkBnhkBJhkBbhmVAAYZAAKTAZptAPwZtQDsGQF3YwCO0wAh-hUBIf9NzcGgYVwRobDBgTEcXdy8fbEISMgp-azQsPA7SckoAKnhkPrsmtw9vXzFyyBA4TAA6OBAkAApTGBgAA2j4pLTM3LzAewZAEF8AEgBvatr6xucZ1t9BrogAXzUtfYANKYAJQLaQwI4JFIZbL5a48eghACMAg4PGEtCC9AEtBYIRCf00QA

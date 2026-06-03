@@ -16,3 +16,6 @@ const updateUser = (user: {
     city: string;
   };
 }): void => {};
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBAtgTwKoQKYCcYF4YG8BQMMAlgCYBcMAjADSExgCGcqlARIFSagcwlt1GMBzVjABMABj4xGpUulQQIlAkSLBiUBO0CO5oBq5XvQC+dAwG58+APQWYgM4ZAPwyA2hjuBRg0CMGoCSGQC9mgBtNAmgyBohkAi1MAHU3xQSFgAVwAHUkYoVBQMbBgACki0dCV6MkowSLgAIwwzIiYWSmh0YjABUqkhPILi9HrpWXlFPHpVdU0YKpq6wzMDAEpKADcQMmwAPjxTIA
