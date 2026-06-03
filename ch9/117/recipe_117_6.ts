@@ -5,3 +5,6 @@ const user = {
   name: string;
   age: number;
 };
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBArhApgJxgXhgbwFAxmAQwFtEAuGAIkBYkwCnMKAaXGAgczMoCYAWBmAej4wA6zAAqATwAOiGAHJoyAJZgWsmIoj4QsAhAiKWhAEYAbGVBAwoUmbLBwiRlLOwBfGBAJQNAM0WJNHDxCEnIFZRYAbiZWdntHFGjXSKA

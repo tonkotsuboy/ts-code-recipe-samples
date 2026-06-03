@@ -3,3 +3,6 @@ const greet = () => {
 };
 
 greet(); // こんにちは
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/MYewdgzgLgBA5gJwKZNgXhgCgJQzQPhgG8AoGGUSEAGyQDpqQ5MAiQZQZBkhkGsGQQwZB7BhbYA3CQC+IkohRQcQmAHp5MTrz5A

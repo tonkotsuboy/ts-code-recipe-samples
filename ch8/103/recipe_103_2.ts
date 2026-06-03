@@ -8,3 +8,6 @@ async function run() {
 }
 
 run();
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/IYZwngdgxgBAZgV2gFwJYHsIwE5IBQCUMA3gFAwxSYjIwAOMAvDBAKYDuMACtugLaoQrPHmysQ6ADYA3VkUYA+HOKmy8AFgBMBAgG5yMAPSHK1WmJAJJyAFwsEfAEatsTGMHbBUtOvorGYQAqGQEuGQB+GOwByJABrCHR2CAjAaPVAJIYIiAdnbAjAawZAY7lAU0VAcwZAWQZAKwZAEQYDKggaGABHNzZOHn5BVgAeDKcXBRELVTkmJQGZYS0dP1Na83ErW3se12YPL1p63SMTAHkAaWrqKVYAOkl0AHM8OgAaZUtrPVIAX1JSXAhCXSA

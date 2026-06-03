@@ -23,3 +23,6 @@ promise.catch((error) => {
 setTimeout(() => {
   controller.abort();
 }, 1500);
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBKZQE4gDYoKaJgXhmdA7jAIIBGIiUAwuEqhogBQCUA3AFDvzQwAOyAWwCWEdDjyEYABUEj0AHgBuIIQBMAfI0aJ0EVIvQAaGDoBW6YFGY51MAN7sYccDyhCBmAJKrxoqABV3dBAAVygta2xbBycnblR0ADoUEABzRgAiAEYABkAlz0AY-UBrBkAEI0B8pUB1BkA-BgrAfQYMtkdYnT0UAxYOJwBfY1yAfRzBxqb4OjRMRIghVLAAQxRE2dVVAFEDBAAZESh0fCYmpwzZ8koMwwOYFht7C7iMWcRAj1Dwtw9Eb0bY5vRzS0Z8EQACIAeQAsisAB7AdC8NzgTKAWoZAMcMgGeGQDdDIBrhkAqgyAGIYavVjBkyBQoCtEMhEA0vrEehc7DBwDCAFwwJAhMR0pyNLrDfggYSiRLAWZQYAACy0mEpkWiIxcCWSaUygDAXQCMrsyzjBpRREnMPDzhn4nsEwhFrjFnAhkONEIsTuEeb0AKxDVhAA

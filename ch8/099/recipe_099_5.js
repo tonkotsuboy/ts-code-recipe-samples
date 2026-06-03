@@ -14,3 +14,6 @@ new Promise((resolve, reject) => {
   .catch((error) => {
     console.log("エラー:", error.message);
   });
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/HYUw7gBACgTg9gWwJYGcQAp0xCuAbANxABoJsArEAYwBcBKCAXgD4IBvAKAgjRoBUkCEHACuNTAxbsu3CFTjAUNCKgDKIqlRwomEALIBDGgAsAdDAPAAJonQNWABlMBWANwzuSAGYR0ajVooKAycsrLYuIQYbCpWAFwQAIykwAZCCQBEgCxJgBTmGRAAvnTuYQUQIHho0mHcFNTioJAAojDwMOgZgOMMgD8MgP0MgGvKgOn6gNYMgIyagOqmgOoMgH4Mk4D6DBl0xR6FMgWkAEwO28tFMqYmIMCYVkYGkqyhsvKK+CCmeHAA5h1D8z29cRmkpzTnJYU6PsqEYqMZMCBWnAYBdqtcFJF7o8XhlABUMgEuGbpfUiQtqmIRBAxPEDLbhFVxAA

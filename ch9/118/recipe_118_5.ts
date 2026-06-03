@@ -16,3 +16,6 @@ const postRequest: ApiRequest<"POST"> = {
 };
 
 console.log(getRequest, postRequest);
+
+// ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAgmCWAlCBHArhAzsAPAFSggA9gIA7AE0ygCIBxAUTxqgB9aAFAeQGVmA+KAF4oAbwBQUKGgBOAGwBcUbDPhkA5gG5JUALYRgACwD2FJXm0BfKADIoACgLFSlavSYsA-GKgAjUyCeSmQQAG4QMlDWSqJ+AUrGvgBWEADGwFEAlNriqcZk2FDqBsjoWMBKcEioGNg47gLCYjqyirQA9ACGCO1omBGYNAA0OvpGpkoNwzrt7XEUIDHWs1AMMjLGMkoA5P4L21CA9gxQIeGRgNHqgFYMgHYMgOYMgCQKgEkMgLRRgFnat4CyDJeAIgziljl5AoZMDGbClWoVWAIcHlercPg0QQiCRSVqTLo9PoDaZSMYmMycXjMEZSPaLHxkTr6SaABldALRyLEsI3+4ly+UwxjkEAAdHJjOp7MVgDDsEMoCCwTVytkgA

@@ -4,3 +4,6 @@ export type Post = {
   title: string;
   body: string;
 };
+
+// ブラウザ上で編集できます
+// https://www.typescriptlang.org/play/?ts=6.0.3#code/KYDwDg9gTgLgBDAnmYcAKEDO8C8cDeAUHHAK6bBQCSAJgFxwB2pAtgEaUDcxcAlvU1Yco3EjF4wANsAbYovRgHNRcNhBqJZMeUu4BfTkA
