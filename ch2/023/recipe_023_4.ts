@@ -2,4 +2,4 @@
 user.details? .age;
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/PTAEmnLRw00CoZEuGQfhgFygPyAsGAdIOwZDJqYawZBOhkC2GeAwEIZBOU0BkIwewZBTRUBiGQSIYHArBkBEGAKAFcBnAUwBOGACb8ALgEMAlgBteKUBkkBzfgG4gA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/PTAEmnLRw00CoZEuGQfhgFygPyAsGAdIOwZDJqYawZBOhkC2GeAwEIZBOU0BkIwewZBTRUBiGQSIYHArBkBEGAKAFcBnAUwBOGACb8ALgEMAlgBteKUBkkBzfgG4gA

@@ -12,4 +12,4 @@ console.log(a, b, rest);
 // 1 2 [3, 4, 5]
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBFCmAPWBeGAiAEvANjk6A3AFDED0ZMgAOaC4SoHYMAzIOGmg6tqBJDIGvKg6frGiSwBtAGYBLAE7QANDAjw+AE2lQAFuPkBdGGgTISfCCBzwAdPgDmAClESo02QqWqx8gJQkKMTDHgwcpD4CyiYDoSoDmDIBBDIAwKoAblrzg0DBgAK4AtgBG8BJaMAIAjNIATNIM0gAs0gCs6npxggCG0qnSxs1i8NCaaElpGRDVkIYm5hb1MI0wrdBu5JQ5MPnZxTBlMJVAA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBFCmAPWBeGAiAEvANjk6A3AFDED0ZMgAOaC4SoHYMAzIOGmg6tqBJDIGvKg6frGiSwBtAGYBLAE7QANDAjw+AE2lQAFuPkBdGGgTISfCCBzwAdPgDmAClESo02QqWqx8gJQkKMTDHgwcpD4CyiYDoSoDmDIBBDIAwKoAblrzg0DBgAK4AtgBG8BJaMAIAjNIATNIM0gAs0gCs6npxggCG0qnSxs1i8NCaaElpGRDVkIYm5hb1MI0wrdBu5JQ5MPnZxTBlMJVAA

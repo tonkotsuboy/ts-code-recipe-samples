@@ -5,4 +5,4 @@ const hello1 = "こんにちは";
 const hello2: string = "こんにちは";
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/PTAEiuGQxhkS4ZGuGRo9UHYMAiQygyGSGQ1gyEMGQ9gzM0ArjQNajBVBkBiGQaIYAoAYwHsA7AZwBdQALAUwBsf6AjKAC8oNFjzIA3NWohQgdYZwgfYZIgYoZAawxI2AJwCWjAOZEyVQBD-gZyjADL6ArBniBRg0CMGoBkGQIyageIYqgSH+6TNp15+ACYALlBdA0MRMQwcfCkgA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/PTAEiuGQxhkS4ZGuGRo9UHYMAiQygyGSGQ1gyEMGQ9gzM0ArjQNajBVBkBiGQaIYAoAYwHsA7AZwBdQALAUwBsf6AjKAC8oNFjzIA3NWohQgdYZwgfYZIgYoZAawxI2AJwCWjAOZEyVQBD-gZyjADL6ArBniBRg0CMGoBkGQIyageIYqgSH+6TNp15+ACYALlBdA0MRMQwcfCkgA

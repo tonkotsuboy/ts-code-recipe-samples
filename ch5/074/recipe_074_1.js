@@ -18,4 +18,4 @@ console.log(entries);
 // [["name", "田中"], ["age", 30], ["city", "東京"]]
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/MYewdgzgLgBArhApgJxgXhgbwFAxmAQwFtEAuGAIkAZXQWjkKAaXGAgczJgGYAGRvYASygBPchUCO5oBq5BtgC+AbmzYA9EpiBahkA-DICSGQGvKgdP1soSLADWiIRHQwA8gCMAVomBQAdGYsAKBCgCUCoxAgADaILkEgLB7uEH4wKjAA2hSEJAyUrIhpFALCFAC6ivGAJAq6BgGwAG4EQXCIlhh2js4uVTV1XkjIfobggSFhER6ttTFycapJtGnc9JSS+YWqmoAWDEWAdgyAWwyARQylPcYwiGBQyPx1Vo1OrofHpxAdvv69waHhkdcndd3xCUkpmbPUOh5WZJDLTLjAxLZQRCLLzPJ5IA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/MYewdgzgLgBArhApgJxgXhgbwFAxmAQwFtEAuGAIkAZXQWjkKAaXGAgczJgGYAGRvYASygBPchUCO5oBq5BtgC+AbmzYA9EpiBahkA-DICSGQGvKgdP1soSLADWiIRHQwA8gCMAVomBQAdGYsAKBCgCUCoxAgADaILkEgLB7uEH4wKjAA2hSEJAyUrIhpFALCFAC6ivGAJAq6BgGwAG4EQXCIlhh2js4uVTV1XkjIfobggSFhER6ttTFycapJtGnc9JSS+YWqmoAWDEWAdgyAWwyARQylPcYwiGBQyPx1Vo1OrofHpxAdvv69waHhkdcndd3xCUkpmbPUOh5WZJDLTLjAxLZQRCLLzPJ5IA

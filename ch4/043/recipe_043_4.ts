@@ -5,4 +5,4 @@ const result = a + b;
 console.log(result);
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBAhjAvDAjABgNwChSVgIyRgGZtdoYAnAUwgFcAbWZBAahn2wHouY+YAegH4YYOgFt81SoGj1HOAggG1AHQMQAcwAUNekwCUGIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBAhjAvDAjABgNwChSVgIyRgGZtdoYAnAUwgFcAbWZBAahn2wHouY+YAegH4YYOgFt81SoGj1HOAggG1AHQMQAcwAUNekwCUGIA

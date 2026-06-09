@@ -2,4 +2,4 @@ const isActive: boolean = true;
 const hasAccess: boolean = false;
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBAlhAgsKcBuBTAXDARiEAGwwEMwYBeGKAJwFcMBuAKFElgAsSlhgMIIOfEVLkqAMxKEITIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBAlhAgsKcBuBTAXDARiEAGwwEMwYBeGKAJwFcMBuAKFElgAsSlhgMIIOfEVLkqAMxKEITIA

@@ -13,4 +13,4 @@ const user: ReadonlyUser = {
 user.name = "鈴木"; // エラー
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGBfRplCQoAJQj4AJgHtcAGxDwkqMRJnyQAHiWIAfIIDGsilHYJEZcVNkKdKrDgLEyAIkAMroFo5FwBomLNgBMACy+ApiYZkgAdE7QaC6ALEmAFOYu9FAA9OlQgBUMgJcMgD8MQA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGBfRplCQoAJQj4AJgHtcAGxDwkqMRJnyQAHiWIAfIIDGsilHYJEZcVNkKdKrDgLEyAIkAMroFo5FwBomLNgBMACy+ApiYZkgAdE7QaC6ALEmAFOYu9FAA9OlQgBUMgJcMgD8MQA

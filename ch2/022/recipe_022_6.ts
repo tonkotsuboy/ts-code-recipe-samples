@@ -6,4 +6,4 @@ logCount(null); // -1
 logCount(undefined); // -1
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABAGzgcwMJ3FAFBbMKALkTBAFsAjAUwCdEAfMkZZJxcAExuBjBpcAlKQBucGF0QBvAFCJEBMAGc4yGgDpUafISiIA-AcQBaAIxCA3LIC+s2dqw5c5NlcQB6D6bMP0TolxuXn5Bdy8fIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABAGzgcwMJ3FAFBbMKALkTBAFsAjAUwCdEAfMkZZJxcAExuBjBpcAlKQBucGF0QBvAFCJEBMAGc4yGgDpUafISiIA-AcQBaAIxCA3LIC+s2dqw5c5NlcQB6D6bMP0TolxuXn5Bdy8fIA

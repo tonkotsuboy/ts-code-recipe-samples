@@ -9,4 +9,4 @@ console.log(product);
 // { id: 102, name: "マウス", price: 50 }
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/MYewdgzgLgBADgJxAEwK7ChGBeGBtAKBhgG8YBLZALhgEYAGWgGhjAEMBbAUxoCJBFhkC9DIGaGQM8MvFonLAedevJgBfJkVIVqcgEwt23PoD2GQGUMgToYJ8BNNkBWekpXEylGgwDMOzrN6BahkA-DIB2GH0BJhjMpGRoADltlAgBdAG4CAlBIWEQUdFhcNLQMCAA6ADNyMGQAClLsjIBKHAA+c3SMPMocbFwGTSqE5IgQABsuPL6QAHMKpByoLoIAehm1Jy13PRheI1NJCzCYGyUgA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/MYewdgzgLgBADgJxAEwK7ChGBeGBtAKBhgG8YBLZALhgEYAGWgGhjAEMBbAUxoCJBFhkC9DIGaGQM8MvFonLAedevJgBfJkVIVqcgEwt23PoD2GQGUMgToYJ8BNNkBWekpXEylGgwDMOzrN6BahkA-DIB2GH0BJhjMpGRoADltlAgBdAG4CAlBIWEQUdFhcNLQMCAA6ADNyMGQAClLsjIBKHAA+c3SMPMocbFwGTSqE5IgQABsuPL6QAHMKpByoLoIAehm1Jy13PRheI1NJCzCYGyUgA

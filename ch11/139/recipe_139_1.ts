@@ -6,4 +6,4 @@ try {
 }
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4JwngBA3gUBEHoEUBUMhLhkD8MgqhkGsMgOhkHKGQeoZAJhkCSGQfFdAEI0HUGQMwZBUo0CUGQaIY4JgALEAewHcIAOwCmAgKIheIABQAidBkAyDIC83CjUB+DDUD6DLICUAbhgBfCAGMAhsFOcI04ZJ4hd0dqZ6CAzjwA2wgHT2UnYOToZGQA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4JwngBA3gUBEHoEUBUMhLhkD8MgqhkGsMgOhkHKGQeoZAJhkCSGQfFdAEI0HUGQMwZBUo0CUGQaIY4JgALEAewHcIAOwCmAgKIheIABQAidBkAyDIC83CjUB+DDUD6DLICUAbhgBfCAGMAhsFOcI04ZJ4hd0dqZ6CAzjwA2wgHT2UnYOToZGQA

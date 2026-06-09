@@ -7,4 +7,4 @@ const c: MyType<number> = {
 };
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAsiAq4IB54D4oF4oG8BQUUAZgPYkBcU8A3HgL614DGJAdgM7BROVyKTJWAVwC2AIwgAnDNnyFSFKACYADCoA09akA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAsiAq4IB54D4oF4oG8BQUUAZgPYkBcU8A3HgL614DGJAdgM7BROVyKTJWAVwC2AIwgAnDNnyFSFKACYADCoA09akA

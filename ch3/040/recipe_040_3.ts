@@ -5,4 +5,4 @@ const myObject = {
 myObject.toString();
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBAtgTwPICMBWBTYsC8MDeAUDDGAIZwYBcMARICxJgFOa0A0hAvgNyGGKqbYAdFBABlKACcAlmADmACgCUnIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBAtgTwPICMBWBTYsC8MDeAUDDGAIZwYBcMARICxJgFOa0A0hAvgNyGGKqbYAdFBABlKACcAlmADmACgCUnIA

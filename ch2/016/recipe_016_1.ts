@@ -13,4 +13,4 @@ switch (式) {
 }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBI8PowLwwIwG4BQpK0CQKKlVNtoZcAmQ8zCAdwEspgALGACjgEoYBvDGGMACGEAKZkUALn4CYAejkTA1gyAAOUAvgYE0GQNEMgFg1AECqA7BkBnioDAXGQIBGAJ1FCA1pgHCxZctNnzFFVZt2HT5jDWtg4yACaiAGZCAK4ANlDunjCAlgwGzqJKgEEM6oDqDIBWDIAiDPrGZgC+QA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBI8PowLwwIwG4BQpK0CQKKlVNtoZcAmQ8zCAdwEspgALGACjgEoYBvDGGMACGEAKZkUALn4CYAejkTA1gyAAOUAvgYE0GQNEMgFg1AECqA7BkBnioDAXGQIBGAJ1FCA1pgHCxZctNnzFFVZt2HT5jDWtg4yACaiAGZCAK4ANlDunjCAlgwGzqJKgEEM6oDqDIBWDIAiDPrGZgC+QA

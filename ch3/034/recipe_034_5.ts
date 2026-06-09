@@ -12,4 +12,4 @@ const user: User = {
 };
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/JYOwLgpgTgZghgYwgAgKoGdrIN4ChnIhwC2EAXMumFKAOYDcuAvrrqJLIihlngXLXKEArsQBG0Ri1wIA9iCrJhmKBR5RkAXhz5CJIQCJALEmAKcwMAaXQKEAmAKyWm9IA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/JYOwLgpgTgZghgYwgAgKoGdrIN4ChnIhwC2EAXMumFKAOYDcuAvrrqJLIihlngXLXKEArsQBG0Ri1wIA9iCrJhmKBR5RkAXhz5CJIQCJALEmAKcwMAaXQKEAmAKyWm9IA

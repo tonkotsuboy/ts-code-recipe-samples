@@ -7,4 +7,4 @@ function checkAge(age: number): void {
 }
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABBAFgUwgawIIHM0AUAhvgFyJggC2ARmgE4CU5AbnDACaIDeAUIohjBExfIgB8AXkQAmAAyMe-AcgQBnOABs0AOk1xcBAESAzhkA-DIDaGM4HsGeYGdrQKdygKDlA5gyBNBkBADEcYBuZQF9ENE01NCUVVTANbT0DY3MrWzk7QCpzQAC7dy9fAN5-IA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABBAFgUwgawIIHM0AUAhvgFyJggC2ARmgE4CU5AbnDACaIDeAUIohjBExfIgB8AXkQAmAAyMe-AcgQBnOABs0AOk1xcBAESAzhkA-DIDaGM4HsGeYGdrQKdygKDlA5gyBNBkBADEcYBuZQF9ENE01NCUVVTANbT0DY3MrWzk7QCpzQAC7dy9fAN5-IA

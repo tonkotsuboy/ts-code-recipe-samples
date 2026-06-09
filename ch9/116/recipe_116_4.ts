@@ -5,4 +5,4 @@ const person = {
 // { name: string; age: number; }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBADgUwE4XDAvDA3gKBjMAQwFsEAuGAIkBYkwCnNKAaPGQgc3JgCYBWJgXwDcOAPTDsBEh2hIAlmFYCW7CmACuxAEbJFfIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBADgUwE4XDAvDA3gKBjMAQwFsEAuGAIkBYkwCnNKAaPGQgc3JgCYBWJgXwDcOAPTDsBEh2hIAlmFYCW7CmACuxAEbJFfIA

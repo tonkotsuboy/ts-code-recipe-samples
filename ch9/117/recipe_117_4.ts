@@ -11,4 +11,4 @@ const user: User = {
 // user.nameはstring型、user.ageはnumber型
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGBfRpgDGAe1wUo7BIjLwkqDEwLEyAIkAsSYApzVQBomLNgCYALHr7M4UUeOD0oAensWrYioAiGQFEMgaPVAFzaAJxMAZBkAqRUAJRUBVBkAYhkBohkxMR0lpADplCEB7BgpqOi9AQAYpJESDVNxOHkQvIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGBfRpgDGAe1wUo7BIjLwkqDEwLEyAIkAsSYApzVQBomLNgCYALHr7M4UUeOD0oAensWrYioAiGQFEMgaPVAFzaAJxMAZBkAqRUAJRUBVBkAYhkBohkxMR0lpADplCEB7BgpqOi9AQAYpJESDVNxOHkQvIA
