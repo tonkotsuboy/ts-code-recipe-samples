@@ -10,4 +10,4 @@ logFruits("りんご", "バナナ", "みかん");
 // みかん
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/GYVwdgxgLglg9mABAGzgcwGICcQygZwAoA6U4HPfASkQG8AoRRYOLRQiBfKZinuYL1wEaDJk05h8cZAFNiqNIXLCqAbkaIAvvR31F2YUQBEgKIZAyQyAVBmMAaRMcALDICmGJ7fuB-BkDSDOePr6Aen9EC0sAoOcnMMQvcyA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/GYVwdgxgLglg9mABAGzgcwGICcQygZwAoA6U4HPfASkQG8AoRRYOLRQiBfKZinuYL1wEaDJk05h8cZAFNiqNIXLCqAbkaIAvvR31F2YUQBEgKIZAyQyAVBmMAaRMcALDICmGJ7fuB-BkDSDOePr6Aen9EC0sAoOcnMMQvcyA

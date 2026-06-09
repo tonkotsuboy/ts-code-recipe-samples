@@ -4,4 +4,4 @@ function convertNumber(value: unknown): void {
 }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABBBA3ApgJygORAWwCMsAKVAQwBsR0AuRcAazDgHcwBKe1OGAE0QBvAFCJEAenGJAzQyBnhkCLDIBKGQNcMgCoZAlwyAfhlGIK1dADoocAGIwAHuj4kATBwDcwgL5A
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABBBA3ApgJygORAWwCMsAKVAQwBsR0AuRcAazDgHcwBKe1OGAE0QBvAFCJEAenGJAzQyBnhkCLDIBKGQNcMgCoZAlwyAfhlGIK1dADoocAGIwAHuj4kATBwDcwgL5A

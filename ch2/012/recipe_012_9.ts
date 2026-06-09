@@ -8,4 +8,4 @@ if (true) {
 console.log(message); // "外側のメッセージ"
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBAtgUwhAhgcwTAvDARINE1AXBUDsGQQ4ZBhhkG6GQH4ZAOhlwG4AoJgSwDMYAKKAJwFcEAShgBvJjBihIsRMnSYcuQKGKJCjXoMYAem0wixOagyAkhkAFaYF5QiVPAQQAGwQA6eyDRcjCoVt15VZKjpcJgBfFmk7Rxc3DyRjYR89AjVA+iA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBAtgUwhAhgcwTAvDARINE1AXBUDsGQQ4ZBhhkG6GQH4ZAOhlwG4AoJgSwDMYAKKAJwFcEAShgBvJjBihIsRMnSYcuQKGKJCjXoMYAem0wixOagyAkhkAFaYF5QiVPAQQAGwQA6eyDRcjCoVt15VZKjpcJgBfFmk7Rxc3DyRjYR89AjVA+iA

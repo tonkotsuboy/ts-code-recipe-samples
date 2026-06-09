@@ -3,4 +3,4 @@ function logMessage(message?: string) {
 }
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABAGzgcwLIFMDOOCGaWAFALa4FED8AXIjlAE4xhoCUiA3gFCKIQIccZFgB0qNGQqEsbANyIA9IsTk8MwDIMgQjtAqgyAYhkBWDIEUGPYAcGcABMswFlgvcAvkA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABAGzgcwLIFMDOOCGaWAFALa4FED8AXIjlAE4xhoCUiA3gFCKIQIccZFgB0qNGQqEsbANyIA9IsTk8MwDIMgQjtAqgyAYhkBWDIEUGPYAcGcABMswFlgvcAvkA

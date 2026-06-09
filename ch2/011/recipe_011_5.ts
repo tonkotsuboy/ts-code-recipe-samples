@@ -6,4 +6,4 @@ if (true) {
 }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/JYMwBAFALgTgrgUwJRgN4CgxgDYKmAYwHs4A7KBGMAXjAAYBudAX3VElkRQy132LIUqtAIyMwAeglgA8gGkWQA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/JYMwBAFALgTgrgUwJRgN4CgxgDYKmAYwHs4A7KBGMAXjAAYBudAX3VElkRQy132LIUqtAIyMwAeglgA8gGkWQA

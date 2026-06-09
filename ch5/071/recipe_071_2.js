@@ -14,4 +14,4 @@ console.log(newUsers);
 // ]
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/MYewdgzgLgBArhApgJwjAvDA2gKBjAbxgEsATALhgEYAaGMAQwFtFKAiQFiTAKczboYHNWMAEwAGGAF8aeQiQoi6jFu0AMroFo5XjAFDhAVknT8RMpQDMi5kLaAY-UAnoZu1nxUnAF0A3DhyhIsMIgB3AFUkVAx4UIgAOgDiKAALAApaWRMYABYLZRg2QAKlez5BM30JAEpPb3AIEAAbRCiakH5E-2DI8pwAek7sLp6jOUoUpStuByKRZ2lu-FT5TPpLdnzxoVMS6f65syyrO1WnST6YVyA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/MYewdgzgLgBArhApgJwjAvDA2gKBjAbxgEsATALhgEYAaGMAQwFtFKAiQFiTAKczboYHNWMAEwAGGAF8aeQiQoi6jFu0AMroFo5XjAFDhAVknT8RMpQDMi5kLaAY-UAnoZu1nxUnAF0A3DhyhIsMIgB3AFUkVAx4UIgAOgDiKAALAApaWRMYABYLZRg2QAKlez5BM30JAEpPb3AIEAAbRCiakH5E-2DI8pwAek7sLp6jOUoUpStuByKRZ2lu-FT5TPpLdnzxoVMS6f65syyrO1WnST6YVyA

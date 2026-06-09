@@ -17,4 +17,4 @@ console.log(7 % 3); // 1
 console.log(2 ** 3); // 8（2の3乗）
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/PTAEmbYx1BkdO8CgGMD2A7AzogNgUwHQcQOYAUArKANSgDMAlANygigAcssTgqPqCyDHEmprnzEyAWmr1GYAExsmgbONAigy8U6bHkKlQAKnEMmARhKywgJyVAUQzL+aoUQBsjUFIlMqx0IE15MwhUD1xAOygAKS6kqD6boD0voDqct5WghpS2jq0emDMgBD-UoB2DFTRgJD-QA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/PTAEmbYx1BkdO8CgGMD2A7AzogNgUwHQcQOYAUArKANSgDMAlANygigAcssTgqPqCyDHEmprnzEyAWmr1GYAExsmgbONAigy8U6bHkKlQAKnEMmARhKywgJyVAUQzL+aoUQBsjUFIlMqx0IE15MwhUD1xAOygAKS6kqD6boD0voDqct5WghpS2jq0emDMgBD-UoB2DFTRgJD-QA

@@ -8,4 +8,4 @@ type User = {
 };
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBuTAX0cwHo2pAKhkEuGQH4YygGBVAGgyBYFUCySoDsGQNHqgJIZA4JGAHU0B7aoGLtQABRgTQZA0QyALBl59A1gyArBm2ZQkWAmRosOfLVJ4AroQBGSRiyA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBuTAX0cwHo2pAKhkEuGQH4YygGBVAGgyBYFUCySoDsGQNHqgJIZA4JGAHU0B7aoGLtQABRgTQZA0QyALBl59A1gyArBm2ZQkWAmRosOfLVJ4AroQBGSRiyA

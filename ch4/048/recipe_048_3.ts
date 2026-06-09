@@ -4,4 +4,4 @@ console.log(`${name}は${age}歳です`);
 // 結果: 鈴木は20歳です
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBGCGBbApjAvDARIFiTAU5pgbgChRJZ4BzVDAJgAZjSIQAbZAOhZAoAoADACQBvBCgC+gewZhlZGMDO1oHMGQJoMfAJTEA9BpiAFX0A55gC4YeCfUVKgA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBGCGBbApjAvDARIFiTAU5pgbgChRJZ4BzVDAJgAZjSIQAbZAOhZAoAoADACQBvBCgC+gewZhlZGMDO1oHMGQJoMfAJTEA9BpiAFX0A55gC4YeCfUVKgA

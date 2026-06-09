@@ -7,4 +7,4 @@ const user = {
 };
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBArhApgJxgXhgbwFAxmAQwFtEAuGAIkBYkwCnMKAaXGAgczMoCYAWBmAej4wA6zAAqATwAOiGAHJoyAJZgWsmIoj4QsAhAiKWhAEYAbGVBAwoUmbLBwiRlLOwBfGBAJQNAM0WJNHDxCEnIFZRYAbiZWdntHFGjXSKA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBArhApgJxgXhgbwFAxmAQwFtEAuGAIkBYkwCnMKAaXGAgczMoCYAWBmAej4wA6zAAqATwAOiGAHJoyAJZgWsmIoj4QsAhAiKWhAEYAbGVBAwoUmbLBwiRlLOwBfGBAJQNAM0WJNHDxCEnIFZRYAbiZWdntHFGjXSKA

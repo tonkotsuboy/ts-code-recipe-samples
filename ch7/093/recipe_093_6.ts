@@ -4,4 +4,4 @@ function doNothing(): void {
 }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABAEzgOTlAFjMBzACgEoAuRANzhmUQG8AoRRAemcUFV5QIIZB1BkCsGQEQZGiAE4BTKCGFJwyUcFyjkAbhZtAcGaAuT0AhboGsGRDLkKagJIZAK-HdAZgycA8gGl6AXyA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABAEzgOTlAFjMBzACgEoAuRANzhmUQG8AoRRAemcUFV5QIIZB1BkCsGQEQZGiAE4BTKCGFJwyUcFyjkAbhZtAcGaAuT0AhboGsGRDLkKagJIZAK-HdAZgycA8gGl6AXyA

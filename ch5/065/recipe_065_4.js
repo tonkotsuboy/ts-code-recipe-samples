@@ -9,4 +9,4 @@ console.log(user);
 // { name: "田中", age: 20 }
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/MYewdgzgLgBArhApgJwjAvDA2gKBjAbxjAEMBbRALhgCJAWJMApzGgGhhIHMqYBGAJhgC+zPIWLkuNQAyugWjkWbTtV4AGQcPxFSFajUAK8oBPQuRy7LVOALoBuHDlCRYCFBnhJUAOgBmASzAATABR+DsgAlBgAfM4orkYY6JjKwVa2ECAANoiuqSDsgS6JOAD0BaKaEjKGCjAmAkA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/MYewdgzgLgBArhApgJwjAvDA2gKBjAbxjAEMBbRALhgCJAWJMApzGgGhhIHMqYBGAJhgC+zPIWLkuNQAyugWjkWbTtV4AGQcPxFSFajUAK8oBPQuRy7LVOALoBuHDlCRYCFBnhJUAOgBmASzAATABR+DsgAlBgAfM4orkYY6JjKwVa2ECAANoiuqSDsgS6JOAD0BaKaEjKGCjAmAkA

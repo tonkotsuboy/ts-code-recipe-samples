@@ -3,4 +3,4 @@ function add(a: number, b: number) {
 }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABAQwCaoBTIFyLCAWwCMBTAJwBpEjd9jyBKRAbwChFEySoQyllEAamoBuVgF8gA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABAQwCaoBTIFyLCAWwCMBTAJwBpEjd9jyBKRAbwChFEySoQyllEAamoBuVgF8gA

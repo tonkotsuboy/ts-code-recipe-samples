@@ -14,4 +14,4 @@ const printableAddress = rawAddress ?? "住所未登録";
 console.log(printableAddress); // 住所未登録
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGd8AJgMQQ4cAPxkK1OowC+jTAGMA9rgpR2CRACYy8JKgxMCxMgCJADK6BaOXMAaJizY6ALA4WZlajemZCRYmSI+ADuAIL+onBQckZaSDqMqurAUGAywPhcADYQEcJRRsHhkWJQ4uJQ5oDy8oACRoBU5oDeboBMyeZJ3iq5AHTZKrQAFOk0mTl5pXAAlPRQAPQzUHVNzUA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGd8AJgMQQ4cAPxkK1OowC+jTAGMA9rgpR2CRACYy8JKgxMCxMgCJADK6BaOXMAaJizY6ALA4WZlajemZCRYmSI+ADuAIL+onBQckZaSDqMqurAUGAywPhcADYQEcJRRsHhkWJQ4uJQ5oDy8oACRoBU5oDeboBMyeZJ3iq5AHTZKrQAFOk0mTl5pXAAlPRQAPQzUHVNzUA

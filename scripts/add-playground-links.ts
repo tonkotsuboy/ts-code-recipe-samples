@@ -20,6 +20,12 @@ const { compressToEncodedURIComponent } = lzString;
 // Playgroundで開くTypeScriptのバージョン（書籍の前提に合わせて固定）
 const TS_VERSION = "6.0.3";
 
+// targetを ESNext（数値99）に固定する。
+// targetを指定しないとlibが古いバージョンに自動設定され、
+// Intl.Segmenter など新しい標準APIの型が無くてエラーになるため。
+// targetを上げると既定のlibもそれに追従して最新になる。
+const TARGET_ESNEXT = "99";
+
 // マーカー行: この行以降はスクリプトが管理する（コード本体には含めない）
 // console.log などの出力があるサンプルにはRunボタンの案内を付け、
 // 型の確認が主目的のサンプル（実行しても何も出ないもの）には付けない
@@ -33,7 +39,7 @@ function buildPlaygroundUrl(code: string, filePath: string): string {
   // checkJs=false を付けて型チェックを無効化し、JS本来の挙動（動的型付けなど）を
   // エディタ上のエラーなしで確認できるようにする
   const filetype = filePath.endsWith(".js") ? "&filetype=js&checkJs=false" : "";
-  return `https://www.typescriptlang.org/play/?ts=${TS_VERSION}${filetype}#code/${compressed}`;
+  return `https://www.typescriptlang.org/play/?ts=${TS_VERSION}&target=${TARGET_ESNEXT}${filetype}#code/${compressed}`;
 }
 
 function addLink(filePath: string): void {

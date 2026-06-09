@@ -18,4 +18,4 @@ const user2: User = {
 console.log(user1, user2);
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGd8AJgMQQ4cAPxkK1OowC+jTAGMA9rgpR2CRAEYy8JKgxMCxMgCJADK6BaOXMAaJizYAmACwP+QkWIuBHc0A1coC-CfaYCpjKahpaSM762kZYOKZsVrYezKxkbg5hEeoqADYQAHQFKrQAFNG6dprazgCU9EA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAqgzhATlAvFA3gKClAdgQwFsIAuKOYRAS1wHMBubKfW0vAV0ICMlGd8AJgMQQ4cAPxkK1OowC+jTAGMA9rgpR2CRAEYy8JKgxMCxMgCJADK6BaOXMAaJizYAmACwP+QkWIuBHc0A1coC-CfaYCpjKahpaSM762kZYOKZsVrYezKxkbg5hEeoqADYQAHQFKrQAFNG6dprazgCU9EA

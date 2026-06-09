@@ -14,4 +14,4 @@ const person: Person = {
 };
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/C4TwDgpgBAglC8UDeAoKUB2BDAthAXFAM7ABOAlhgOYDcKAvnSqJFAEILJpRZUGYBXHACMIpOoxTNw0AApiiAewyc4AMnZMAxspJRIpJRkLzDyzqnTY8hAESAqTUBzCbYA03XvwDMABjeMgA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/C4TwDgpgBAglC8UDeAoKUB2BDAthAXFAM7ABOAlhgOYDcKAvnSqJFAEILJpRZUGYBXHACMIpOoxTNw0AApiiAewyc4AMnZMAxspJRIpJRkLzDyzqnTY8hAESAqTUBzCbYA03XvwDMABjeMgA

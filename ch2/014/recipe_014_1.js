@@ -3,4 +3,4 @@ if (true) {
 }
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/JYMwBAFALgTgrgUwJRgN4CgxgPTbIcNNA1hkFuGQYYZB6hkAh-wfO1AZCME0GQaIZAzxUDAXQSH-0BfIA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/JYMwBAFALgTgrgUwJRgN4CgxgPTbIcNNA1hkFuGQYYZB6hkAh-wfO1AZCME0GQaIZAzxUDAXQSH-0BfIA

@@ -6,4 +6,4 @@ Promise.any([
 });
 
 // ブラウザ上で編集できます。実行するには左上の「Run」ボタンを押してください
-// https://www.typescriptlang.org/play/?ts=6.0.3&filetype=js&checkJs=false#code/AoJw9gtglgzgpgOgIYDsCeAKA2gKAAR6iSyIhwBWcAxgC4YpwDueAoiOCBgESAVDIJcMgH4YAjFwCUogDT5C4aPARlKtek1bswnXoIBMYyTgC6ohFSQ0qACwwY46kKLwBeAHx4A3tKpgUMMABtEPzAAcxs7UQBuPAB6aLwAQWDgsmCzODYOAC4Evz88AAdZEhg8Rls4PEVqGjgAExwAX0igA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99&filetype=js&checkJs=false#code/AoJw9gtglgzgpgOgIYDsCeAKA2gKAAR6iSyIhwBWcAxgC4YpwDueAoiOCBgESAVDIJcMgH4YAjFwCUogDT5C4aPARlKtek1bswnXoIBMYyTgC6ohFSQ0qACwwY46kKLwBeAHx4A3tKpgUMMABtEPzAAcxs7UQBuPAB6aLwAQWDgsmCzODYOAC4Evz88AAdZEhg8Rls4PEVqGjgAExwAX0igA

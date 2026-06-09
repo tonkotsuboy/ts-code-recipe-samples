@@ -4,4 +4,4 @@ function user() {
 // { name: string; age: number } 型に推論される
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/GYVwdgxgLglg9mABCAzgUwE4AoCUiDeAUIohmlCBkvomAIYC2aAXIgESAsSYBTmbANInQDmLRAGYADIgC+AbkJTCAekUFajESigYYYQTIHDWYEAwBGmaYkDR6oGsGQBXGgNajAqgyAYhkDRDEA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/GYVwdgxgLglg9mABCAzgUwE4AoCUiDeAUIohmlCBkvomAIYC2aAXIgESAsSYBTmbANInQDmLRAGYADIgC+AbkJTCAekUFajESigYYYQTIHDWYEAwBGmaYkDR6oGsGQBXGgNajAqgyAYhkDRDEA

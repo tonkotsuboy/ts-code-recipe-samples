@@ -8,4 +8,4 @@ void promise;
 void reject;
 
 // ブラウザ上で編集できます
-// https://www.typescriptlang.org/play/?ts=6.0.3#code/MYewdgzgLgBA3jADgJxAWwJYQKYBobLYQgA2AbngdgFbbCwC+MAvDAAqqY4B0A7hlAAWAJSKkKyCAB5oyDGADmAPgAUASgDcAKBxQAKhjTYQAVygr1LJfC0wqxcthUAiQAhGgfKVA6gyA-Bk+B9BmdNLQZ8AEYABkigrQB6GJhAIeVAc0dAOwZAfwZACH-AKnNAf3lACldAM2jAKRVAPbVAfwTASH+tMhAMABMkTixsbRr6qlp6DSA
+// https://www.typescriptlang.org/play/?ts=6.0.3&target=99#code/MYewdgzgLgBA3jADgJxAWwJYQKYBobLYQgA2AbngdgFbbCwC+MAvDAAqqY4B0A7hlAAWAJSKkKyCAB5oyDGADmAPgAUASgDcAKBxQAKhjTYQAVygr1LJfC0wqxcthUAiQAhGgfKVA6gyA-Bk+B9BmdNLQZ8AEYABkigrQB6GJhAIeVAc0dAOwZAfwZACH-AKnNAf3lACldAM2jAKRVAPbVAfwTASH+tMhAMABMkTixsbRr6qlp6DSA
