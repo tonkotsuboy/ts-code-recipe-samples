@@ -227,9 +227,9 @@ async function main() {
 
   await writeFile(
     join(reportDir, "results.json"),
-    JSON.stringify({ meta, summary, fileResults, projectResults }, null, 2)
+    JSON.stringify({ meta, summary, fileResults, projectResults }, null, 2) + "\n"
   );
-  await writeFile(join(reportDir, "index.html"), renderHtml({ meta, summary, fileResults, projectResults }));
+  await writeFile(join(reportDir, "index.html"), renderHtml({ meta, summary, fileResults, projectResults }) + "\n");
 
   console.log("\n=== summary (per-file) ===");
   console.log(`  total              : ${summary.total}`);
