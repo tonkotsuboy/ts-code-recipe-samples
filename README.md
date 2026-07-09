@@ -82,8 +82,10 @@ VS CodeなどのTypeScript対応エディタでファイルを開き、変数や
 ▼ ファイル単体の型チェック
 
 ```sh
-npx -p typescript tsc --noEmit ch2/009/recipe_009_1.ts
+npx -p typescript tsc --noEmit --ignoreConfig ch2/009/recipe_009_1.ts
 ```
+
+`--ignoreConfig`は、リポジトリルートの`tsconfig.json`を読み込まずにファイル単体を検査するためのオプションです。付けないと`tsc`はエラー`TS5112`で停止します。
 
 ### `.js`（JavaScript）ファイル
 

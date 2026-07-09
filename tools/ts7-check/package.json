@@ -1,0 +1,15 @@
+{
+  "name": "ts7-check",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TypeScript 7 (typescript@7.0.2) compatibility checker for the book samples",
+  "scripts": {
+    "check": "node check.mjs"
+  },
+  "devDependencies": {
+    "@typescript/native-preview": "beta",
+    "ts7rc": "npm:typescript@7.0.2",
+    "typescript": "^6.0.3"
+  }
+}
